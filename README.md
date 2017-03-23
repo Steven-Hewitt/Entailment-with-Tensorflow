@@ -2,7 +2,7 @@
 
 This repo hosts the code associated with my O'Reilly article, "Textual entailment with TensorFlow: Using neural networks to explore natural language," published on DATE.
 
-[Brief summary]
+This article serves as an introduction to textual entailment, a simple natural language processing machine learning task, and will guide you through creating a model that will accomplish this task.  In natural language processing, the task of textual entailment attempts to answer the question of whether, given one text that is accepted as truth, another text is true, false, or indeterminable.  The article, with the help of the code contained within this notebook, serves as an introduction to word vectorization, recurrence in neural networks, LSTMs, and dropout as a regularization method.
 
 ## Requirements and installation
 In order to run this notebook, you'll need to install [TensorFlow v1.0](https://www.tensorflow.org/), [Jupyter](http://jupyter.org/), [NumPy](http://www.numpy.org/), and [Matplotlib](http://matplotlib.org/).
