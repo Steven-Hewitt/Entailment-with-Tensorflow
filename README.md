@@ -1,6 +1,6 @@
 # Textual Entailment with TensorFlow
 
-This repo hosts the code associated with my O'Reilly article, "Textual entailment with TensorFlow: Using neural networks to explore natural language," published on DATE.
+This repo hosts the code associated with my O'Reilly article, "Textual entailment with TensorFlow: Using neural networks to explore natural language," published on July 17, 2017.
 
 This article serves as an introduction to textual entailment, a simple natural language processing machine learning task, and guides you through creating a model that will accomplish this task.  In natural language processing, the task of textual entailment attempts to answer the question of whether, given one text that is accepted as truth, another text is true, false, or indeterminable.  The article, with the help of the code contained within this notebook, uses textual entailment as a practical example of the uses of word vectorization, recurrence in neural networks, LSTMs, and dropout as a regularization method.
 
